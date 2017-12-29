@@ -1,3 +1,3 @@
 # Calculator
 
-Basic web calculator made with HTML,CSS,JavaScript
+Basic web calculator made with HTML, CSS, JavaScript
